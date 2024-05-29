@@ -1,0 +1,57 @@
+Sport,Sport_Type
+Basketball,TeamSports
+Judo,CombatSports
+Football,TeamSports
+Speed Skating,WinterSports
+Cross Country Skiing,WinterSports
+Athletics,Athletics
+Ice Hockey,TeamSports
+Swimming,Aquatics
+Badminton,RacquetSports
+Sailing,WaterSports
+Biathlon,WinterSports
+Gymnastics,IndividualSports
+Alpine Skiing,WinterSports
+Handball,TeamSports
+Weightlifting,Weightlifting
+Wrestling,CombatSports
+Luge,WinterSports
+Water Polo,TeamSports
+Hockey,TeamSports
+Rowing,WaterSports
+Bobsleigh,WinterSports
+Fencing,CombatSports
+Equestrianism,Equestrianism
+Shooting,Shooting
+Boxing,CombatSports
+Taekwondo,CombatSports
+Cycling,Cycling
+Diving,Aquatics
+Canoeing,WaterSports
+Tennis,RacquetSports
+Modern Pentathlon,ModernPentathlon
+Figure Skating,WinterSports
+Golf,IndividualSports
+Softball,Other
+Archery,Archery
+Volleyball,TeamSports
+Synchronized Swimming,Aquatics
+Table Tennis,RacquetSports
+Nordic Combined,WinterSports
+Baseball,TeamSports
+Rhythmic Gymnastics,IndividualSports
+Freestyle Skiing,WinterSports
+Rugby Sevens,TeamSports
+Trampolining,IndividualSports
+Beach Volleyball,TeamSports
+Triathlon,Triathlon
+Ski Jumping,WinterSports
+Curling,WinterSports
+Art Competitions,Other
+Snowboarding,WinterSports
+Rugby,TeamSports
+Short Track Speed Skating,WinterSports
+Skeleton,WinterSports
+Lacrosse,TeamSports
+Tug-Of-War,TeamSports
+Motorboating,WaterSports
